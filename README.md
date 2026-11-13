@@ -4,17 +4,16 @@
 
 I'm a Computer Engineering graduate in Artificial Intelligence and Data Science, interested in building practical web applications and solving real-world problems through technology.
 
-Currently, I'm focusing on the MERN Stack, strengthening my JavaScript fundamentals and improving my problem-solving skills through hands-on development.
+Currently, I'm focusing on Full Stack Development, strengthening my programming fundamentals and improving my problem-solving skills through hands-on development.
 
 ---
 
 ## 👨‍💻 About Me
 
-- Currently learning and building with the MERN Stack.
-- Previous hands-on experience with Python and Django.
 - Interested in Full Stack Development and AI/ML.
+- Hands-on experience with Python and Django.
 - Enjoy building projects and exploring new technologies.
-- Always learning, building and improving.
+- Focused on practical development and problem-solving.
 
 ---
 
@@ -22,41 +21,31 @@ Currently, I'm focusing on the MERN Stack, strengthening my JavaScript fundament
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,c" />
-
-- 🗄️ SQL
+\<img src="[https://skillicons.dev/icons?i=python,javascript,c,sql](https://skillicons.dev/icons?i=python,javascript,c,sql)" />
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-
-- React.js — Learning
+\<img src="[https://skillicons.dev/icons?i=html,css,react](https://skillicons.dev/icons?i=html,css,react)" />
 
 ### Backend Development
 
-<img src="https://skillicons.dev/icons?i=django,nodejs,express" />
-
-- Node.js — Learning
-- Express.js — Learning
+\<img src="[https://skillicons.dev/icons?i=django,nodejs,express](https://skillicons.dev/icons?i=django,nodejs,express)" />
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-
-- MongoDB — Learning
+\<img src="[https://skillicons.dev/icons?i=mysql,mongodb,sqlite](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)" />
 
 ### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=opencv,sklearn" />
+\<img src="[https://skillicons.dev/icons?i=opencv,sklearn](https://skillicons.dev/icons?i=opencv,sklearn)" />
 
-- 🔢 NumPy
-- 🐼 Pandas
-- 🤖 Scikit-learn
-- 👁️ MediaPipe
+- NumPy
+- Pandas
+- MediaPipe
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+\<img src="[https://skillicons.dev/icons?i=git,github,vscode,pycharm](https://skillicons.dev/icons?i=git,github,vscode,pycharm)" />
 
 ---
 
@@ -71,9 +60,7 @@ An AI-powered fitness platform for workout tracking, exercise pose analysis and 
 - Repetition counting across multiple exercises.
 - Personalized fitness recommendations.
 
-**Technologies:** 🐍 Python · 👁️ OpenCV · MediaPipe
-
-[View Project](https://github.com/AmanKokate29/FITVERSE-AI-DRIVEN-REAL-TIME-POSE-CORRECTION-AND-FITNESS-RECOMMENDATION-SYSTEM)
+**Technologies:** Python · OpenCV · MediaPipe
 
 ### 2. MediMatch – Medicine Recommendation System
 
@@ -83,13 +70,13 @@ A Django-based medicine recommendation system using machine learning and TF-IDF 
 - Medicine recommendations based on symptoms.
 - Data management using SQLite and Django ORM.
 
-**Technologies:** 🐍 Python · Django · Scikit-learn · SQLite
+**Technologies:** Python · Django · Scikit-learn · SQLite
 
 ### 3. CineBook – Movie Ticket Booking Portal
 
 A movie ticket booking web application built using Django and frontend technologies.
 
-**Technologies:** 🐍 Python · Django · MySQL · HTML · CSS · JavaScript
+**Technologies:** Python · Django · MySQL · HTML · CSS · JavaScript
 
 ---
 
@@ -103,26 +90,14 @@ Co-authored research on AI-powered exercise pose analysis, correction and person
 
 ---
 
-## 📚 Currently Learning
-
-<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb" />
-
-- JavaScript and advanced concepts
-- React.js
-- Node.js and Express.js
-- MongoDB
-- Full Stack Application Development
-
----
-
 ## 🤝 Connect With Me
 
-<a href="https://github.com/AmanKokate29">
-  <img src="https://img.shields.io/badge/GitHub-AmanKokate29-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/aman-kokate/">
-  <img src="https://img.shields.io/badge/LinkedIn-Aman_Kokate-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
+\<a href="[https://github.com/AmanKokate29](https://github.com/AmanKokate29)">
+&#x20; \<img src="[https://img.shields.io/badge/GitHub-AmanKokate29-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-AmanKokate29-181717?style=for-the-badge\&logo=github)" />
+\</a>
+\<a href="[https://www.linkedin.com/in/aman-kokate/](https://www.linkedin.com/in/aman-kokate/)">
+&#x20; \<img src="[https://img.shields.io/badge/LinkedIn-Aman_Kokate-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Aman_Kokate-0A66C2?style=for-the-badge\&logo=linkedin)" />
+\</a>
 
 ---
 
