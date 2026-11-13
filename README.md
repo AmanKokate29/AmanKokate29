@@ -21,23 +21,23 @@ Currently, I'm focusing on Full Stack Development, strengthening my programming 
 
 ### Programming Languages
 
-\<img src="[https://skillicons.dev/icons?i=python,javascript,c,sql](https://skillicons.dev/icons?i=python,javascript,c,sql)" />
+<img src="[https://skillicons.dev/icons?i=python,javascript,c,sql](https://skillicons.dev/icons?i=python,javascript,c,sql)" />
 
 ### Frontend Development
 
-\<img src="[https://skillicons.dev/icons?i=html,css,react](https://skillicons.dev/icons?i=html,css,react)" />
+<img src="[https://skillicons.dev/icons?i=html,css,react](https://skillicons.dev/icons?i=html,css,react)" />
 
 ### Backend Development
 
-\<img src="[https://skillicons.dev/icons?i=django,nodejs,express](https://skillicons.dev/icons?i=django,nodejs,express)" />
+<img src="[https://skillicons.dev/icons?i=django,nodejs,express](https://skillicons.dev/icons?i=django,nodejs,express)" />
 
 ### Databases
 
-\<img src="[https://skillicons.dev/icons?i=mysql,mongodb,sqlite](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)" />
+<img src="[https://skillicons.dev/icons?i=mysql,mongodb,sqlite](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)" />
 
 ### AI / Machine Learning
 
-\<img src="[https://skillicons.dev/icons?i=opencv,sklearn](https://skillicons.dev/icons?i=opencv,sklearn)" />
+<img src="[https://skillicons.dev/icons?i=opencv,sklearn](https://skillicons.dev/icons?i=opencv,sklearn)" />
 
 - NumPy
 - Pandas
@@ -45,7 +45,7 @@ Currently, I'm focusing on Full Stack Development, strengthening my programming 
 
 ### Tools & Platforms
 
-\<img src="[https://skillicons.dev/icons?i=git,github,vscode,pycharm](https://skillicons.dev/icons?i=git,github,vscode,pycharm)" />
+<img src="[https://skillicons.dev/icons?i=git,github,vscode,pycharm](https://skillicons.dev/icons?i=git,github,vscode,pycharm)" />
 
 ---
 
@@ -92,12 +92,12 @@ Co-authored research on AI-powered exercise pose analysis, correction and person
 
 ## 🤝 Connect With Me
 
-\<a href="[https://github.com/AmanKokate29](https://github.com/AmanKokate29)">
-&#x20; \<img src="[https://img.shields.io/badge/GitHub-AmanKokate29-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-AmanKokate29-181717?style=for-the-badge\&logo=github)" />
-\</a>
-\<a href="[https://www.linkedin.com/in/aman-kokate/](https://www.linkedin.com/in/aman-kokate/)">
-&#x20; \<img src="[https://img.shields.io/badge/LinkedIn-Aman_Kokate-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Aman_Kokate-0A66C2?style=for-the-badge\&logo=linkedin)" />
-\</a>
+<a href="[https://github.com/AmanKokate29](https://github.com/AmanKokate29)">
+&#x20; <img src="[https://img.shields.io/badge/GitHub-AmanKokate29-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-AmanKokate29-181717?style=for-the-badge\&logo=github)" />
+</a>
+<a href="[https://www.linkedin.com/in/aman-kokate/](https://www.linkedin.com/in/aman-kokate/)">
+&#x20; <img src="[https://img.shields.io/badge/LinkedIn-Aman_Kokate-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Aman_Kokate-0A66C2?style=for-the-badge\&logo=linkedin)" />
+</a>
 
 ---
 
