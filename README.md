@@ -90,11 +90,15 @@ A Django-based medicine recommendation system using machine learning and TF-IDF 
 
 **Technologies:** Python, Django, Scikit-learn, SQLite
 
+[View Project →](https://medi-match-rho.vercel.app/)
+
 ### 3. CineBook – Movie Ticket Booking Portal
 
 A movie ticket booking web application built using Django and frontend technologies.
 
 **Technologies:** Python, Django, MySQL, HTML, CSS, JavaScript
+
+[View Project →](https://github.com/AmanKokate29/CineBook)
 
 ---
 
